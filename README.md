@@ -31,6 +31,7 @@ Test de l'hypothèse à l'aide d'un modèle de classification binaire (Random Fo
 ## Contenu du dépôt
 
 - `client_data.csv`, `price_data.csv` — données sources fournies par le client
+- `Data Description.pdf` — description des colonnes des jeux de données
 - `clean_data_after_eda.csv` — données nettoyées après l'analyse exploratoire
 - `data_for_predictions.csv` — données prêtes pour la modélisation, après feature engineering
 - `out_of_sample_predictions.csv` — prédictions du modèle sur le jeu de test
@@ -38,7 +39,6 @@ Test de l'hypothèse à l'aide d'un modèle de classification binaire (Random Fo
 - `Tache_3_Feature_Engineering.ipynb` — construction des fonctionnalités
 - `Tache_4_Modeling.ipynb` — modélisation et évaluation
 - `Executive_Summary.pdf` — synthèse des résultats et recommandations
-
   
 ## Stack technique
 
